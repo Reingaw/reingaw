@@ -5,7 +5,7 @@
 <br />
 </div>
 
-I'm Wagner Andrade, a front-end developer who loves cats, animes, games and programming, currently I'm majoring in Systems amalysis and development.
+I'm Wagner Andrade, a front-end developer who loves cats, animes, games and programming, currently I'm majoring in Systems analysis and development.
 
 - 🌱 I’m currently learning more about front-end development using React.js, Next.js and Typescript...
 - 👯 I’m looking to collaborate on open-source projects and help the developers comunity...
@@ -28,6 +28,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<br />
+
 <div align="center">
 
   ![Wagner Andrade's GitHub Stats](https://github-readme-stats.vercel.app/api?username=reingaw&theme=github_dark&show_icons=true)&nbsp; &nbsp;
