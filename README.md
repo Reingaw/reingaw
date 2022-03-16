@@ -1,7 +1,7 @@
 ### Hello World 👋
 <div align="center">
 
-![github shield](https://img.shields.io/github/followers/reingaw?logo=github&style=for-the-badge) &nbsp; &nbsp; [![linkedin badge](https://img.shields.io/badge/-Wagner%20Andrade-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wagnerzao/)](https://linkedin.com/in/wagnerzao)
+![github shield](https://img.shields.io/github/followers/reingaw?logo=github&style=for-the-badge) [![linkedin badge](https://img.shields.io/badge/-Wagner%20Andrade-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wagnerzao/)](https://linkedin.com/in/wagnerzao)
 <br />
 </div>
 
@@ -9,7 +9,6 @@ I'm Wagner Andrade, a front-end developer who loves cats, animes, games and prog
 
 - 🌱 I’m currently learning more about front-end development using React.js, Next.js and Typescript...
 - 👯 I’m looking to collaborate on open-source projects and help the developers comunity...
-- 🤔 I’m looking for help with ...
 - 📫 How to reach me: [wagneraldasilva@gmail.com](mailto://wagneraldasilva@gmail.com)...
 
 <br />
