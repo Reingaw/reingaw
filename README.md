@@ -5,11 +5,12 @@
 <br />
 </div>
 
-I'm Wagner Andrade, a front-end developer who loves cats, animes, games and programming, currently I'm majoring in Systems analysis and development.
+I'm Wagner Andrade, a full-stack developer who loves cats, animes, games and programming, I'm majored in Markeing and Systems analysis and development. I have a graduate degree in Business intelligence, big data & analytics - data science. I'm very interested in game development and machine leaning.
 
 - 🌱 I’m currently learning more about front-end development using React.js, Next.js and Typescript...
 - 👯 I’m looking to collaborate on open-source projects and help the developers comunity...
 - 📫 How to reach me: [wagneraldasilva@gmail.com](mailto://wagneraldasilva@gmail.com)...
+- ⚡ Fun fact: I dream one day I develop my own game and publish it.
 
 <br />
 
