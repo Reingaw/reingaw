@@ -5,7 +5,7 @@
 <br />
 </div>
 
-I'm Wagner Andrade, a full-stack developer who loves cats, animes, games and programming, I'm majored in Markeing and Systems analysis and development. I have a graduate degree in Business intelligence, big data & analytics - data science. I'm very interested in game development and machine leaning.
+I'm Wagner Andrade, a full-stack developer who loves cats, animes, games and programming, I'm majored in Marketing and Systems analysis and development. I have a graduate degree in Business intelligence, big data & analytics - data science. I'm very interested in game development and machine learning.
 
 - 🌱 I’m currently learning more about front-end development using React.js, Next.js and Typescript...
 - 👯 I’m looking to collaborate on open-source projects and help the developers comunity...
