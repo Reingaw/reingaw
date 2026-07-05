@@ -4,12 +4,15 @@
  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+love+learning+new+things+everyday.">
 </p>
 
-### Hello World 👋
 <div align="center">
 
 ![github shield](https://img.shields.io/github/followers/reingaw?logo=github&style=for-the-badge) [![linkedin badge](https://img.shields.io/badge/-Wagner%20Andrade-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wagnerzao/)](https://linkedin.com/in/wagnerzao)
-<br />
+
 </div>
+
+### Hello World 👋
+
+<br />
 
 I'm Wagner Andrade, a full-stack developer who loves cats, animes, games and programming, I'm majored in Marketing and Systems analysis and development. I have a graduate degree in Business intelligence, big data & analytics - data science. I'm very interested in game development and machine learning.
 
