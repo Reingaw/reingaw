@@ -1,3 +1,5 @@
+[![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Wagner%20Andrade&animation=scaleIn&reversal=false)]([https://git.io/typing-svg](https://capsule-render.vercel.app/))
+
 ### Hello World 👋
 <div align="center">
 
