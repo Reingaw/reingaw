@@ -1,5 +1,9 @@
 [![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Wagner%20Andrade&animation=scaleIn&reversal=false)]([https://git.io/typing-svg](https://capsule-render.vercel.app/))
 
+<p align="center">
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+love+learning+new+things+everyday.">
+</p>
+
 ### Hello World 👋
 <div align="center">
 
@@ -33,8 +37,20 @@ Here are some ideas to get you started:
 
 <br />
 
-<div align="center">
+<p align="center">
+ <img src="https://skillicons.dev/icons?i=js,html,css,typescript,react,vue,jest,nodejs,cs,java,docker,azure,aws,gcp">
+</p>
 
-  ![Wagner Andrade's GitHub Stats](https://github-readme-stats.vercel.app/api?username=reingaw&theme=github_dark&show_icons=true)&nbsp; &nbsp;
-![Wagner Andrade's Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reingaw&theme=github_dark&show_icons=true&layout=compact)  
-</div>
+<br />
+
+<p align="center">
+ <img src="https://github-stats-extended.vercel.app/api?username=Reingaw&theme=github_dark&show_icons=true&layout=compact">
+</p>
+
+<br />
+
+<p align="center">
+ <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Reingaw&theme=github_dark&show_icons=true&layout=compact">
+</p>
+
+![Wagner Andrade's Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reingaw&theme=github_dark&show_icons=true&layout=compact)
