@@ -52,5 +52,3 @@ Here are some ideas to get you started:
 <p align="center">
  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Reingaw&theme=github_dark&show_icons=true&layout=compact">
 </p>
-
-![Wagner Andrade's Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reingaw&theme=github_dark&show_icons=true&layout=compact)
