@@ -1,7 +1,7 @@
 [![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Wagner%20Andrade&animation=scaleIn&reversal=false)]([https://git.io/typing-svg](https://capsule-render.vercel.app/))
 
 <p align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+love+learning+new+things+everyday.">
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+love+learning+new+things+every+day.">
 </p>
 
 <div align="center">
